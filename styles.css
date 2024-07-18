@@ -46,5 +46,29 @@ nav li a{
 
 }
 nav li a:hover{
-        color: rgba(34, 130, 14, 0.8);
+    color: rgba(34, 130, 14, 0.8);
+}
+
+#displayCharacters div{
+    color:cornflowerblue;
+    margin-bottom: 15px;
+    margin-right: 500px;
+    margin-left: 500px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.image-left{
+    float: left;
+    margin-right: 20px;
+    
+}
+.image{
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+    display: block;
 }
