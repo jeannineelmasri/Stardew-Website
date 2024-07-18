@@ -6,7 +6,7 @@
             "likes": ["Quartz", "Maple Syrup", "Cranberries"],
             "dislikes": ["Holly", "Clay", "Quartz"],
             "hates": ["Geode", "Salmonberry", "Holly"],
-            "image": ["images\\Abigail Image.png"]
+            "image": ["images/Abigail Image.png"]
         }
     },
     {
@@ -115,7 +115,7 @@
             "likes": ["Daffodil"],
             "dislikes": ["Clam", "Salmonberry", "Wild Horseradish"],
             "hates": ["Coleslaw", "Holly", "Quartz"],
-            "image": ["iamges/Gus_1.png"]
+            "image": ["images/Gus_1.png"]
         }
     },
     
@@ -138,7 +138,7 @@
             "likes": ["Daffodil", "Sunflower", "Pineapple"],
             "dislikes": ["Holly", "Quartz", "Fruit"],
             "hates": ["Salmonberry", "Holly", "Clay"],
-            "image": ["iamges/haley.png"]
+            "image": ["images/haley.png"]
         }
     },
     
@@ -303,7 +303,7 @@
             "likes": ["Coconut", "Daffodil", "Frog Egg"],
             "dislikes": ["Dandelion", "Hazelnut", "Holly", "Leek"],
             "hates": ["Clay", "Piña Colada", "Triple Shot Espresso", "Wild Horseradish"],
-            "image": ["images/vincent.png"]
+            "image": ["images/Screenshot 2024-07-18 155740.png"]
         }
     },
     {
