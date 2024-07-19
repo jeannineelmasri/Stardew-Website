@@ -1,0 +1,126 @@
+{
+    "festivals": [
+      {
+        "name": "Egg Festival",
+        "season": "Spring",
+        "date": 13,
+        "location": "Pelican Town Square",
+        "time": "9am - 2pm",
+        "details": "The Egg Festival features an Egg Hunt where players search for small colored eggs. Winning the hunt rewards a Straw Hat (first year) or a Prize Ticket (subsequent years). A booth sells decorative items, including Lawn Flamingos, Plush Bunnies, and Strawberry Seeds. The festival ends after Mayor Lewis announces the winner of the Egg Hunt.",
+        "endTime": "10pm",
+        "image": "images/egg festival.png"
+      },
+      {
+        "name": "Desert Festival",
+        "season": "Spring",
+        "date": "15-17",
+        "location": "Desert",
+        "time": "10am - 2am",
+        "details": "The Desert Festival features rotating stock shops, a race to bet on, challenges for event currency, and a daily opportunity to receive a new outfit from Emily. Villagers will be at the festival instead of their usual locations.",
+        "endTime": "varies",
+        "image": "images/desert festival.png"
+         
+      },
+      {
+        "name": "Flower Dance",
+        "season": "Spring",
+        "date": 24,
+        "location": "Cindersap Forest",
+        "time": "9am - 2pm",
+        "details": "The Flower Dance takes place in the far west of the forest and features a dance where players can dance with bachelors or bachelorettes if they have at least four hearts of friendship. There is also a booth selling Dandelions, Daffodils, and other items.",
+        "endTime": "10pm",
+        "image": "images/flower festival.jpg"
+      },
+      {
+        "name": "Luau",
+        "season": "Summer",
+        "date": 11,
+        "location": "The Beach",
+        "time": "9am - 2pm",
+        "details": "The Luau features a potluck soup that villagers contribute to. The player's choice of ingredient affects the Governor's reaction and can increase or decrease friendship points with all villagers.",
+        "endTime": "10pm",
+        "image": "images/laua.png"
+      },
+      {
+        "name": "Trout Derby",
+        "season": "Summer",
+        "date": "20-21",
+        "location": "Cindersap Forest",
+        "time": "6:10am - 2am",
+        "details": "The Trout Derby allows players to catch Rainbow Trout in the Cindersap Forest river. Each trout caught has a chance to give a Golden Tag, which can be exchanged for prizes at the derby booth.",
+        "endTime": "varies",
+        "image": "images/derby.png"
+      },
+      {
+        "name": "Dance of the Moonlight Jellies",
+        "season": "Summer",
+        "date": 28,
+        "location": "The Beach",
+        "time": "10pm - 12am",
+        "details": "During the Dance of the Moonlight Jellies, villagers gather at the docks to watch migrating jellyfish. The festival starts when Mayor Lewis lights a torch.",
+        "endTime": "12am",
+        "image": "images/moonlight.jpg"
+      },
+      {
+        "name": "Stardew Valley Fair",
+        "season": "Fall",
+        "date": 16,
+        "location": "Pelican Town",
+        "time": "9am - 3pm",
+        "details": "The Stardew Valley Fair features games to gain Star Tokens, which can be exchanged for prizes. The Fair also includes a Grange Display contest for additional Star Tokens.",
+        "endTime": "10pm",
+        "image": "images/fair.png"
+      },
+      {
+        "name": "Spirit's Eve",
+        "season": "Fall",
+        "date": 27,
+        "location": "Pelican Town",
+        "time": "10pm - 11:50pm",
+        "details": "Spirit's Eve features a maze with the possibility of obtaining a Golden Pumpkin on odd years and a Prize Ticket on even years. Pierre has a shopping booth with festive items.",
+        "endTime": "12am",
+        "image": "images/spirits eve.png"
+      },
+      {
+        "name": "Festival of Ice",
+        "season": "Winter",
+        "date": 8,
+        "location": "Cindersap Forest",
+        "time": "9am - 2pm",
+        "details": "The Festival of Ice features ice sculptures, igloos, and an Ice Fishing Contest. Winning the contest earns the player prizes such as tackles, Magnet bait, and a Sailor's Cap.",
+        "endTime": "10pm",
+        "image": "images/ice festival.jpg"
+      },
+      {
+        "name": "SquidFest",
+        "season": "Winter",
+        "date": "12-13",
+        "location": "The Beach",
+        "time": "6:10am - 2am",
+        "details": "SquidFest allows players to catch Squid for tiered prizes. The counter for the amount of squid caught resets on the beginning of the 13th. Prizes include the 'Squid Kid', Squid Hat, and The Art O' Crabbing.",
+        "endTime": "varies",
+        "image": "images/squid fest.png"
+      },
+      {
+        "name": "Night Market",
+        "season": "Winter",
+        "date": "15-17",
+        "location": "The Beach",
+        "time": "5pm - 2am",
+        "details": "The Night Market features shops, a mermaid show, and a deep-sea fishing submarine with unique fish. Shops and homes throughout Stardew Valley are not closed during the Night Market.",
+        "endTime": "varies",
+        "image": "images/night market.jpg"
+      },
+      {
+        "name": "Feast of the Winter Star",
+        "season": "Winter",
+        "date": 25,
+        "location": "Pelican Town",
+        "time": "9am - 2pm",
+        "details": "The Feast of the Winter Star includes secret gift-giving. The player receives a random villager to give a gift to and receives a gift from a random villager. Mayor Lewis informs the player of their gift recipient via a letter on the 18th.",
+        "endTime": "10pm",
+        "image": "images/winter star.png"
+      }
+    ]
+  }
+  
