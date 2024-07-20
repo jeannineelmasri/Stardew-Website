@@ -3,9 +3,9 @@
         "name": "Abigail",
         "data": {
             "loves": ["Amethyst", "Pumpkin", "Chocolate Cake"],
-            "likes": ["Quartz", "Maple Syrup", "Cranberries"],
-            "dislikes": ["Holly", "Clay", "Quartz"],
-            "hates": ["Geode", "Salmonberry", "Holly"],
+            "likes": ["Ancient Sword", "Basilisk Paw", "Bone Flute", "Combat Quarterly"],
+            "dislikes": ["Sugar", "Wild Horseradish"],
+            "hates": ["Clay", "Holly"],
             "image": ["images/Abigail Image.png"]
         }
     },
